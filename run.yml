@@ -1,4 +1,4 @@
 ---
-- hosts: ansible3-test
+- hosts: samatha1-test
   roles:
    - lamp
