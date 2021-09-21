@@ -1,0 +1,5 @@
+- name: Install LAMP stack using Ansible
+  become: yes
+  apt:
+    name: "{{ packages }}"
+    state: present

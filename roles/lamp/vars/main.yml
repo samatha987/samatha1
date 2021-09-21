@@ -1,0 +1,7 @@
+---
+# vars file for lamp
+packages:
+           - apache2
+           - mysql-server
+           - php
+
