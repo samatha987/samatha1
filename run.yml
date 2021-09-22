@@ -1,4 +1,4 @@
 ---
-- hosts: lampstalk
+- hosts: ansible3-test
   roles:
    - lamp
