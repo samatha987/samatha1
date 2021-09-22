@@ -1,4 +1,4 @@
 ---
-- hosts: samatha1-test
+- hosts: lampstalk
   roles:
    - lamp
